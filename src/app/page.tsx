@@ -1,3 +1,3 @@
 export default function Home() {
-    return <div className="font-bold underline">Hello World!</div>;
+    return <h1 className="font-bold underline">Simple Weather</h1>;
 }
